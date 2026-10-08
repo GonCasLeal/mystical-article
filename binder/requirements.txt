@@ -1,3 +1,8 @@
 plotly
-networkx
+numpy
 pandas
+scipy
+statsmodels
+ipykernel
+jupyter
+jupytext

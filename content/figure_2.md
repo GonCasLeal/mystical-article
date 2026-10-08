@@ -24,6 +24,7 @@ import plotly.io as pio
 pio.renderers.default = "plotly_mimetype"
 
 G = nx.random_geometric_graph(200, 0.125)
+
 ```
 
 Now onto the next code cell, which will be visible in the rendered document.
